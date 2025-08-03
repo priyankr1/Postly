@@ -7,19 +7,16 @@
       <li>Register/Login using <strong>Email & Password</strong></li>
       <li>Profile with <strong>Name, Email, and Bio</strong></li>
     </ul>
-
     <h3>2. Public Post Feed</h3>
     <ul>
       <li>Create and view posts (text + image)</li>
       <li>Home feed displaying posts with author’s name and timestamp</li>
     </ul>
-
     <h3>3. Profile Page</h3>
     <ul>
       <li>View a user’s profile with their information</li>
       <li>See all posts created by the user</li>
     </ul>
-
     <h2>Tech Stack Used</h2>
     <h3>Frontend:</h3>
     <ul>
@@ -42,13 +39,11 @@
       <li><strong>Frontend:</strong> Vercel</li>
       <li><strong>Backend:</strong> Vercel</li>
     </ul>
-
     <h2>Setup Instructions</h2>
     <h3>1. Clone the Repository</h3>
     <pre><code>git clone https://github.com/priyankr1/Postly.git
 cd postly
 </code></pre>
-
     <h3>2. Setup Backend</h3>
     <pre><code>cd server
 npm install
@@ -60,7 +55,6 @@ JWT_SECRET=your_jwt_secret
 </code></pre>
     <p>Run the backend:</p>
     <pre><code>npm start</code></pre>
-
     <h3>3. Setup Frontend</h3>
     <pre><code>cd client
 npm install
@@ -70,22 +64,18 @@ npm install
 </code></pre>
     <p>Run the frontend:</p>
     <pre><code>npm start</code></pre>
-
     <h3>4. Video Walkthrough</h3>
     <p>Watch this short video to understand project setup and usage:  
     <a href="YOUR_GOOGLE_DRIVE_LINK" target="_blank"><strong>Google Drive Setup Video</strong></a></p>
-
     <h2>Demo Login Credentials (for Testing)</h2>
     <p><strong>Email:</strong> demo@postly.com<br>
     <strong>Password:</strong> demo123</p>
-
     <h2>Extra Features</h2>
     <ul>
       <li><strong>Like & Comment</strong> system on posts</li>
       <li><strong>Responsive UI</strong> for both desktop & mobile</li>
       <li><strong>Protected routes</strong> for logged-in users</li>
     </ul>
-
     <h2>Live Demo & Repository</h2>
     <p><strong>Live URL:</strong> <a href="https://postly-l4xj.vercel.app/" target="_blank">https://postly-l4xj.vercel.app/</a></p>
     <p><strong>GitHub Repo:</strong> <a href="https://github.com/priyankr1/Postly" target="_blank">https://github.com/priyankr1/Postly</a></p>
