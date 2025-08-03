@@ -66,7 +66,7 @@ npm install
     <pre><code>npm start</code></pre>
     <h3>4. Video Walkthrough</h3>
     <p>Watch this short video to understand project setup and usage:  
-    <a href="YOUR_GOOGLE_DRIVE_LINK" target="_blank"><strong>Google Drive Setup Video</strong></a></p>
+    <a href="https://drive.google.com/file/d/1ytQo5mlvyRK3ueDMS5uuyNqKtEFZk6T2/view?usp=sharing" target="_blank"><strong>Google Drive Setup Video</strong></a></p>
     <h2>Demo Login Credentials (for Testing)</h2>
     <p><strong>Email:</strong> demo@postly.com<br>
     <strong>Password:</strong> demo123</p>
